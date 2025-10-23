@@ -232,9 +232,9 @@ You must have edit access to restore general access to a restricted application.
 [9]: /real_user_monitoring/android/mobile_vitals/
 [10]: /real_user_monitoring/ios/web_view_tracking/
 [11]: /real_user_monitoring/android/web_view_tracking/
-[12]: /real_user_monitoring/session_replay/browser/
-[13]: /real_user_monitoring/session_replay/browser/privacy_options/
-[14]: /real_user_monitoring/session_replay/browser/developer_tools/
+[12]: /real_user_monitoring/application_monitoring/session_replay/browser/
+[13]: /real_user_monitoring/application_monitoring/session_replay/browser/privacy_options/
+[14]: /real_user_monitoring/application_monitoring/session_replay/browser/developer_tools/
 [15]: /real_user_monitoring/browser/setup/
 [16]: /real_user_monitoring/application_monitoring/
 [17]: https://app.datadoghq.com/rum/optimization/inspect

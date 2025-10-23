@@ -4,10 +4,10 @@ description: Heatmaps are a type of visualization allowing you to see where user
 aliases:
 - /real_user_monitoring/heatmaps
 further_reading:
-- link: '/real_user_monitoring/session_replay/browser/'
+- link: '/real_user_monitoring/application_monitoring/session_replay/browser/'
   tag: 'Documentation'
   text: 'Session Replay for Browsers'
-- link: '/real_user_monitoring/session_replay/mobile/'
+- link: '/real_user_monitoring/application_monitoring/session_replay/mobile/'
   tag: 'Documentation'
   text: 'Session Replay for Mobile'
 - link: 'https://www.datadoghq.com/blog/visualize-behavior-datadog-scrollmaps/'
@@ -139,7 +139,7 @@ User information is not collected by default. Heatmaps use the user information 
 ## Further reading
 {{< partial name="whats-next/whats-next.html" >}}
 
-[1]: /real_user_monitoring/session_replay/
+[1]: /real_user_monitoring/application_monitoring/session_replay/
 [2]: https://app.datadoghq.com/rum/heatmap/
 [3]: https://app.datadoghq.com/rum/performance-monitoring
 [4]: /real_user_monitoring/explorer/#view-by-application

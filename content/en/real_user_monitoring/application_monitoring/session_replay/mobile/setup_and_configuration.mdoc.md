@@ -6,16 +6,16 @@ content_filters:
     option_group_id: rum_session_replay_sdk_options
     label: "SDK"
 further_reading:
-  - link: '/real_user_monitoring/session_replay/mobile'
+  - link: '/real_user_monitoring/application_monitoring/session_replay/mobile'
     tag: Documentation
     text: Mobile Session Replay
-  - link: '/real_user_monitoring/session_replay/mobile/app_performance'
+  - link: '/real_user_monitoring/application_monitoring/session_replay/mobile/app_performance'
     tag: Documentation
     text: How Mobile Session Replay Impacts App Performance
-  - link: '/real_user_monitoring/session_replay/mobile/privacy_options'
+  - link: '/real_user_monitoring/application_monitoring/session_replay/mobile/privacy_options'
     tag: Documentation
     text: Mobile Session Replay Privacy Options
-  - link: '/real_user_monitoring/session_replay/mobile/troubleshooting'
+  - link: '/real_user_monitoring/application_monitoring/session_replay/mobile/troubleshooting'
     tag: Documentation
     text: Troubleshoot Mobile Session Replay
   - link: '/real_user_monitoring/session_replay'
@@ -26,4 +26,4 @@ further_reading:
     text: Web View Tracking
 ---
 
-{% partial file="mdoc/en/real_user_monitoring/session_replay/setup_and_configuration.mdoc.md" /%}
+{% partial file="mdoc/en/real_user_monitoring/application_monitoring/session_replay/setup_and_configuration.mdoc.md" /%}

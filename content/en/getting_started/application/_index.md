@@ -115,5 +115,5 @@ Datadog [Synthetic Monitoring][22] allow you to create and run API and browser t
 [15]: /dashboards/functions/
 [16]: /monitors/
 [18]: /real_user_monitoring/
-[19]: /real_user_monitoring/session_replay/browser/
+[19]: /real_user_monitoring/application_monitoring/session_replay/browser/
 [22]: /synthetics/
